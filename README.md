@@ -1,1 +1,1 @@
-# tunix
+# Tunix - The Music Player
