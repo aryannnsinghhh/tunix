@@ -41,6 +41,18 @@ nav{
     color: #9b21ff;
     box-shadow: 0 5px 10px rgba(255, 26, 26, 0.22);
 }
+.violet{
+    font-family: 'Satisfy', cursive;
+    font-size: 22px;
+    font-weight: bold;
+    color: #9b21ff;
+    display: flexbox;
+    background-color: #fff;
+    padding: 5px 20px 5px 24px;
+    border-radius: 50%;
+    box-shadow: 0 5px 10px rgba(255, 26, 26, 0.22);
+}
+
 .music-player h1{
     font-size: 25px;
     font-weight: 500px;
